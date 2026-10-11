@@ -1,0 +1,6 @@
+{
+  "name": "VD Coating Solutions - Billing & ERP",
+  "description": "Industrial GST Tax Invoice, Job Order, and Customer ERP system for VD Coating Solutions (Pune).",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
